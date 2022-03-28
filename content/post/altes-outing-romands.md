@@ -1,5 +1,5 @@
 ---
-title: "Nazi-Outing - Die Romands (Nathan Beytrison, Simon Andenmatten, Léa Baeriswyl, Laurie Pitteloud, Sidney Théodoloz"
+title: "Nazi-Outing - Die Romands (Nathan Beytrison, Simon Andenmatten, Léa Baeriswyl, Laurie Pitteloud, Sidney Théodoloz)"
 date: 2021-05-29T10:15:00+02:00
 image: "images/romands/romands_head.png"
 author: "nazifrei" # use capitalize
