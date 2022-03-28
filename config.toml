@@ -41,14 +41,9 @@ link = "plugins/search/search.js"
 
 ################################ menu ##################################
 [[menu.main]]
-name = "Zur Hauptseite"
-url = "/"
-weight = 1
-
-[[menu.main]]
 name = "Über nazifrei.ch"
 url = "about/"
-weight = 2
+weight = 1
 
 
 #################### default parameters ################################
