@@ -1,7 +1,6 @@
 ---
 title: "Nazi-Outing #1 - Moritz Frey"
 date: 2022-03-27T10:00:15+02:00
-#image: "images/post/post-2.jpg"
 image: "images/moritz/moritz_head.JPG"
 author: "nazifrei" # use capitalize
 description: "Nazi-Outing #1 - Moritz Frey."
