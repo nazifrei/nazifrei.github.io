@@ -20,9 +20,9 @@ Philip Kaltbrunner (a.k.a. "Thomas" im Sonntagsblick) ist der nächste Nazi der 
 
 (...)
 
-Das komplette Outing von Philip Kaltbrunner vom 02. Juni 2021 gibt es bei [barrikade.info](https://barrikade.info/article/4530). (Sollte das Outing nicht mehr online sein, [hier](/images/philip/barrikade_philip.pdf) das Outing als PDF)
+Das komplette Outing von Philip Kaltbrunner vom 02. Juni 2021 gibt es bei [barrikade.info](https://barrikade.info/article/4530). (Sollte das Outing nicht mehr online sein, [hier das Outing als PDF](/images/philip/barrikade_philip.pdf))
 
-Mehr von philip:
+Mehr von Philip Kaltbrunner:
 
 ![](/images/philip/philip1.jpg)
 

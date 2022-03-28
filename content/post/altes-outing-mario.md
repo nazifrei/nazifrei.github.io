@@ -25,7 +25,7 @@ Ein kleiner Sneak Peak war bereits im Outing von Lukas Knöpfli zu erwischen. Nu
 
 (...)
 
-Das komplette Outing von Mario vom 21. Juni 2021 (nicht mehr 100% aktuell) gibt es bei [barrikade.info](https://barrikade.info/article/4623). (Sollte das Outing nicht mehr online sein, [hier](/images/mario/barrikade_mario.pdf) das Outing als PDF)
+Das komplette Outing von Mario vom 21. Juni 2021 (nicht mehr 100% aktuell) gibt es bei [barrikade.info](https://barrikade.info/article/4623). (Sollte das Outing nicht mehr online sein, [hier das Outing als PDF](/images/mario/barrikade_mario.pdf))
 
 Mehr von Mario:
 

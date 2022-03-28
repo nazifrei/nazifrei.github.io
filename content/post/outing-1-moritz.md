@@ -21,7 +21,7 @@ Social Media: kvlt_spooky
 Der Multimediaelektroniker-Lehrling Moritz Frey ist aktives Mitglied der Neonazi-Gruppe _Junge Tat_. Auf Gruppenvideos zeigt er sich mit Gesicht, an Demos läuft er vermummt. Neuerdings versucht er sich als Gruppenfotograf. An der Corona-Demo mit Faschofront in Bern bediente er ein Megafon.
 
 
-Mehr von Moritz:
+Mehr von Moritz Frey:
 
 ![](/images/moritz/moritz1.png)
 
