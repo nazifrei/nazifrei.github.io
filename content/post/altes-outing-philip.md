@@ -5,13 +5,13 @@ image: "images/philip/philip_head.png"
 author: "nazifrei" # use capitalize
 description: "Nazi-Outing - Philip Kaltbrunner."
 categories: ["Outings"]
-tags: ["Junge Tat", "St. Gallen"]
+tags: ["Junge Tat", "Schwyz"]
 draft: false
 ---
 
 ```
 Name: Philip Kaltbrunner
-Adresse: (nicht 100% bestätigt)
+Adresse: Grossfeldstrasse 18, 7320 Sargans SZ
 Geburtsdatum: 6.3.1999
 Social Media: leckmerdoch (Instagram) / TYRanosaurus69 (Twitter)
 ```
