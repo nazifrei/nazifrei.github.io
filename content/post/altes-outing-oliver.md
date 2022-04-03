@@ -5,13 +5,13 @@ image: "images/oliver/oliver_head.png"
 author: "nazifrei" # use capitalize
 description: "Nazi-Outing - Oliver Rothacher."
 categories: ["Outings"]
-tags: ["Junge Tat", "Zürich"]
+tags: ["Junge Tat", "Zürich", "Schwyz"]
 draft: false
 ---
 
 ```
 Name: Oliver Rothacher
-Adresse: Büelhalde 13, 8317 Tagelswangen ZH
+Adresse: Fabrikstrasse 8, 8854 Siebnen ZH, (alt: Büelhalde 13, 8317 Tagelswangen ZH)
 Geburtsdatum: 22.02.1995
 Telefon: 076 402 15 13
 Arbeitsort: Schwimmbadtechniker bei Pool Profis, Seefeldstrasse 2, 8610 Uster
