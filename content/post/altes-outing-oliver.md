@@ -11,7 +11,7 @@ draft: false
 
 ```
 Name: Oliver Rothacher
-Adresse: Fabrikstrasse 8, 8854 Siebnen ZH, (alt: Büelhalde 13, 8317 Tagelswangen ZH)
+Adresse: Fabrikstrasse 8, 8854 Siebnen SZ, (alt: Büelhalde 13, 8317 Tagelswangen ZH)
 Geburtsdatum: 22.02.1995
 Telefon: 076 402 15 13
 Arbeitsort: Schwimmbadtechniker bei Pool Profis, Seefeldstrasse 2, 8610 Uster
