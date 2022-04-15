@@ -13,7 +13,8 @@ draft: false
 Name: Manuel "Tozzi" Bertozzi
 Adresse: Glismattenstr. 2, 3902 Glis VS
 Geburtsdatum: 25.3.1986
-Auto: VS 115 664, silbernen Suzuki
+Telefon: 079 752 94 05
+Auto: VS 76703, Mercedes C43 AMG
 Social Media: sonnystraightedge (Instagram)
 ```
 
