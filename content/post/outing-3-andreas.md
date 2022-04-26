@@ -11,7 +11,7 @@ draft: false
 
 ```
 Name: Andreas "Andy" Schnellmann
-Adresse: Fabrikstrasse 8, 8854 Siebnen SZ (im gleichen Haus ist die Kita "Z'Wirbelhus" untergebracht. Finanzchef dieser Kita ist Reto Schnellmann)
+Adresse: Fabrikstrasse 8, 8854 Siebnen SZ
 Auto: SZ 115 201, schwarzer Honda
 Handy: 079 837 89 42
 Instagram: waldgaenger_
