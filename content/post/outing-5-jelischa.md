@@ -3,7 +3,7 @@ title: "Nazi-Outing #5 - Jelischa Schimon Michlig"
 date: 2022-04-22T10:00:15+02:00
 image: "images/jelischa/jelischa_head.png"
 author: "nazifrei" # use capitalize
-description: "Nazi-Outing #4 - Jelischa Schimon Michlig"
+description: "Nazi-Outing #5 - Jelischa Schimon Michlig"
 categories: ["Outings"]
 tags: ["Junge Tat", "Bern"]
 draft: false
