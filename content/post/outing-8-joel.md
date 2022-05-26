@@ -13,7 +13,6 @@ draft: false
 Name: Joel Kaufmann
 Adresse: Heldaustrasse 11, 9470 Buchs SG
 Geburtsdatum: 11.7.1994
-Telefon: 081 756 34 66
 Social Media: Raoul_Salan (Instagram)
 Mail: joel.kaufmann@jsvp-sg.ch
 ```
